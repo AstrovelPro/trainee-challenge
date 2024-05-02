@@ -1,5 +1,5 @@
 
-# Desafío para Practicantes de Astrovel
+# Desafío para Trainees de Astrovel
 
 ## Introducción
 
